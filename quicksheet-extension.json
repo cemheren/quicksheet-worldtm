@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Multi-timezone world clock — your team's timezones at a glance",
   "author": "cemheren",
-  "entrypoint": "dotnet run --project .",
+  "entry": "dotnet run --project .",
   "params": ["timezones (comma-separated): IANA IDs, abbreviations, or city names"],
   "examples": [
     "worldtm: London, Tokyo, NY",
