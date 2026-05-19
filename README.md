@@ -16,7 +16,7 @@ Multi-timezone world clock extension for [QuickSheet](https://github.com/cemhere
 In any QuickSheet cell, type:
 
 ```
-ext: github:cemheren/quicksheet-worldtm
+ext: github:Deskworks/quicksheet-worldtm
 ```
 
 QuickSheet clones the repo, reads the manifest, and registers the `worldtm` prefix.
@@ -76,7 +76,7 @@ Set your wallpaper to always show when teammates are available:
 
 ```csv
 Team Clock,,
-"ext: github:cemheren/quicksheet-worldtm",,
+"ext: github:Deskworks/quicksheet-worldtm",,
 "worldtm: NY, London, Berlin, Mumbai, Tokyo, Sydney,5,8",,
 ```
 
